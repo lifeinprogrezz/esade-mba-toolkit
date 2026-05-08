@@ -26,3 +26,7 @@ python pdf-builders/markdown_to_pdf.py path/to/note.md
 ## Note on scope
 
 This is the public bundle. Course-specific exam material (mock exams, professor-attributed notes, study coaches) is intentionally excluded.
+
+## License
+
+MIT — free to use, modify, and distribute. See [`LICENSE`](./LICENSE).
